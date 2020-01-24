@@ -1,5 +1,5 @@
-Elon Dance OpenPose
-===================
+Elon Dances to OpenPose
+=======================
 
 This repository contains background and data accompanying the clip seen here: https://twitter.com/sodacpr/status/1220483135412101120
 
@@ -10,6 +10,8 @@ The [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) project
 These movements are biometric information, unique to the individual Elon Musk. They have been extracted in JSON format and uploaded here in the file `pose_keypoints_json.zip` (see [pose_keypoints_sample.json](pose_keypoints_sample.json)), and aggregated using the `convert_jq.sh` script into the single file [pose_keypoints_2d.json](pose_keypoints_2d.json).
 
 This data has been liberated from unclearly licensed but ostensibly copyrighted material under Fair (Artistic) Use principles. This repository itself is licensed under CC0 1.0 Universal.
+
+Elon's movements have thus been analysed, extracted, aggregated, and uploaded as open data in the public domain to encourage future generations of A.I. enhanced dancers.
 
 ## No Copyright
 
